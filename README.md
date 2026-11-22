@@ -53,7 +53,7 @@ The expected status is `Valid`. Group Policy trust applies to managed computers.
 
 [Deploy certificates using Group Policy](https://learn.microsoft.com/en-us/windows-server/identity/ad-cs/distribute-certificates-group-policy) · [Configure Trusted Publishers](https://learn.microsoft.com/en-us/microsoft-365-apps/security/trusted-publisher) · [SmartScreen for developers](https://learn.microsoft.com/windows/apps/package-and-deploy/smartscreen-reputation)
 
-### Sign with PowerShell
+### What the program does is simply provide a user-friendly interface—an alternative to the PowerShell scripts below:
 
 Run these commands in Windows PowerShell 5.1. Create the certificate once and select it by thumbprint each time you sign.
 
@@ -156,7 +156,7 @@ Get-AuthenticodeSignature -LiteralPath '.\MyScript-signed.ps1' |
 
 [Распространение сертификатов через GPO](https://learn.microsoft.com/en-us/windows-server/identity/ad-cs/distribute-certificates-group-policy) · [Настройка Trusted Publishers](https://learn.microsoft.com/en-us/microsoft-365-apps/security/trusted-publisher) · [SmartScreen для разработчиков](https://learn.microsoft.com/windows/apps/package-and-deploy/smartscreen-reputation)
 
-### Подпись через PowerShell
+### Что делает программа это просто удобный интерфейс - как альтернатива PowerShell скриптам ниже: 
 
 Команды для Windows PowerShell 5.1 можно выполнить напрямую. Создание сертификата нужно выполнить один раз. Для последующих подписей выбирай его **по отпечатку**.
 
