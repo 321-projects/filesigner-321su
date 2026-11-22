@@ -8,7 +8,7 @@ Create a **code signing certificate** and sign PowerShell scripts, Windows progr
 
 [321.su website](https://321.su) · [Sign with PowerShell](#sign-with-powershell) · [Deploy trust with Group Policy](#deploy-trust-with-group-policy) · [Release a signed EXE](docs/RELEASE.md)
 
-![321.su File Signer showing the sample certificate name Company ROOT CA](docs/EN.png)
+![321.su File Signer showing the sample](docs/EN.png)
 
 *The screenshot shows an earlier version of the interface with a sample certificate name.*
 
@@ -111,7 +111,7 @@ If the window closes after you double-click the batch file, open Command Prompt 
 
 [Сайт 321.su](https://321.su) · [Подпись через PowerShell](#подпись-через-powershell) · [Доверие через GPO](#доверие-через-gpo) · [Выпуск подписанного EXE](docs/RELEASE.md)
 
-![321.su File Signer с демонстрационным именем сертификата Company ROOT CA](docs/RU.png)
+![321.su File Signer](docs/RU.png)
 
 *На скриншоте показана предыдущая версия окна с демонстрационным именем сертификата.*
 
