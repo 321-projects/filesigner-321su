@@ -1,0 +1,12 @@
+[Bb]in/
+[Oo]bj/
+publish/
+publish.log
+.vs/
+*.user
+*.suo
+*.pfx
+*.p12
+*.pvk
+*.key
+*.snk
